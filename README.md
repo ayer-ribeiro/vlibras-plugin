@@ -39,5 +39,7 @@ A alteração abaixo resolve faz com que o widget funcione de forma pouco mais r
   
 </body> <!-- Fim do corpo da página -->
 
-Exemplo: https://github.com/ayer-ribeiro/vlibras-plugin/blob/main/demo/index.html
 ```
+  
+Exemplo: https://github.com/ayer-ribeiro/vlibras-plugin/blob/main/demo/index.html
+
