@@ -46,4 +46,8 @@ A alteração abaixo resolve faz com que o widget funcione de forma pouco mais r
 Código: https://github.com/ayer-ribeiro/vlibras-plugin/blob/main/demo/index.html
 
 Execução: https://ayer-ribeiro.github.io/vlibras-plugin/demo/
+  
+## Documentação oficial:
+  
+https://vlibras.gov.br/doc/widget/installation/webpageintegration.html
 
