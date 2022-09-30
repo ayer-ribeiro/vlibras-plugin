@@ -4,7 +4,11 @@ O VLibras Widget é um recurso de acessibilidade desenvolvido para tornar págin
 
 ## Melhoria
 A documentação oficial sugere que o código de integração seja adicionado antes do fechamento da tag <body>.
-Isso é sugerido pela possibilidade de não funcionamento do código de integração causado pelo uso do `window.onload = ...`.
+Isso é sugerido pela possibilidade de não funcionamento do código de integração causado pelo uso de 
+
+```javascript
+window.onload = ...
+```
 A alteração abaixo resolve faz com que o widget funcione de forma pouco mais robusta.
 
 ```diff
